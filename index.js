@@ -211,4 +211,4 @@ client.on("message", async(message) => {
     }
 })
 
-client.login(process.env.tokne)
+client.login(process.env.token)
